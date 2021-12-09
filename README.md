@@ -1,7 +1,7 @@
-#Olezhka
-First Site on "Github"
+# Olezhka
+# First Site on "Github"
 i change description file
-первый сайт на "GITHUB"
+# первый сайт на "GITHUB"
 Я поменял Файл описания 
 
 ## Как у вас дела Люди 
